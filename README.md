@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌐 az-acript-changeIP
+# 🌐 az-script-ChangeIP
 
 **Bulk-reassign the primary private IP of Azure VMs from a CSV file — powered by the Azure CLI.**
 
@@ -62,8 +62,8 @@ vm-app-02,rg-prod-app,10.0.0.11
 
 ```bash
 # 1. Clone
-git clone https://github.com/numaneto/az-acript-changeIP.git
-cd az-acript-changeIP
+git clone https://github.com/numaneto/az-script-ChangeIP.git
+cd az-script-ChangeIP
 
 # 2. Log in and pick the subscription
 az login
