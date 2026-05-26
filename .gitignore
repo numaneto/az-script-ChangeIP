@@ -1,0 +1,13 @@
+# Local edits / private CSVs
+*.local.csv
+*.private.csv
+
+# Editor noise
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS noise
+.DS_Store
+Thumbs.db
