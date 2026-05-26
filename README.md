@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌐 az-script-ChangeIP
+# 🌐 AZ VM - ChangeIP
 
 **Bulk-reassign the primary private IP of Azure VMs from a CSV file — powered by the Azure CLI.**
 
